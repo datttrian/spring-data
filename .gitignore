@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+.tmp
+npm-debug.log
+/university/.idea/
+/university/university.iml
+/.idea/
+/university/target/
