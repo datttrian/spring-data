@@ -1,0 +1,6 @@
+/workspaces/spring-data/university/src/test/java/com/example/university/dao/FindByOneAttribute.java
+/workspaces/spring-data/university/src/test/java/com/example/university/dao/PagingTest.java
+/workspaces/spring-data/university/src/test/java/com/example/university/dao/UniversityFactory.java
+/workspaces/spring-data/university/src/test/java/com/example/university/dao/CriteriaQueryTest.java
+/workspaces/spring-data/university/src/test/java/com/example/university/dao/FindByClausesAndExpressions.java
+/workspaces/spring-data/university/src/test/java/com/example/university/dao/SimpleDBCrudTest.java

@@ -1,0 +1,13 @@
+/workspaces/spring-data/university/src/main/java/com/example/university/domain/Course.java
+/workspaces/spring-data/university/src/main/java/com/example/university/domain/Department.java
+/workspaces/spring-data/university/src/main/java/com/example/university/PersistenceJPAConfig.java
+/workspaces/spring-data/university/src/main/java/com/example/university/domain/Student.java
+/workspaces/spring-data/university/src/main/java/com/example/university/dao/CourseDao.java
+/workspaces/spring-data/university/src/main/java/com/example/university/business/CourseFilter.java
+/workspaces/spring-data/university/src/main/java/com/example/university/business/DynamicQueryService.java
+/workspaces/spring-data/university/src/main/java/com/example/university/domain/Staff.java
+/workspaces/spring-data/university/src/main/java/com/example/university/dao/StudentDao.java
+/workspaces/spring-data/university/src/main/java/com/example/university/domain/Person.java
+/workspaces/spring-data/university/src/main/java/com/example/university/dao/StaffDao.java
+/workspaces/spring-data/university/src/main/java/com/example/university/dao/DepartmentDao.java
+/workspaces/spring-data/university/src/main/java/com/example/university/business/UniversityService.java
